@@ -10,6 +10,6 @@
   "author": "SteffenRumpf",
   "license": "ISC",
   "dependencies": {
-    "minimatch": "^5.0.0"
+    "minimatch": "^8.0.0"
   }
 }
